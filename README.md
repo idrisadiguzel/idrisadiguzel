@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 </p><br>
 
-<a href="https://github.com/kaansen57"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaansen57&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
-<a href="https://github.com/kaansen57"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaansen57&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10&hide=asp.net" /></a><br>
+<a href="https://github.com/idrisadiguzel"><img align="center" src="https://github-readme-stats.vercel.app/api?username=idrisadiguzel&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
+<a href="https://github.com/idrisadiguzel"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrisadiguzel&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10&hide=asp.net" /></a><br>
     
 <h2 align='left''> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
 <p align='left'>
