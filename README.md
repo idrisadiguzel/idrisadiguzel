@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **idrisadiguzel/idrisadiguzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,11 +16,11 @@ Here are some ideas to get you started:
 <h1 align='center'>  Hi There, I'm İdris Adıgüzel <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1> 
 <h2 align='left'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 <p align='center'>
-  <a href="https://instagram.com/kaansn57"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://twitter.com/kaansjs"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://www.linkedin.com/in/kaansen57/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp; 
- <a href="mailto:kaansen57@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/kaansen"><img src="https://img.shields.io/badge/hackerrank-00CC66.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <a href="https://instagram.com/idi.adg"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp; 
+
+  <a href="https://www.linkedin.com/in/idrisadiguzel/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp; 
+ <a href="mailto:idrisadiguzel@gmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p><br>
 
 <a href="https://github.com/kaansen57"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaansen57&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
@@ -47,5 +46,5 @@ Here are some ideas to get you started:
 </p><br>
 <p align="center"> 
   Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/kaansen57/count.svg" height = 20px />
+  <img src="https://profile-counter.glitch.me/idrisadiguzel/count.svg" height = 20px />
 </p>
